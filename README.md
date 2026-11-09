@@ -123,7 +123,7 @@ status: Always Building Something 🚀
 
 <div align="center">
 
-<a href="https://jay-8ur.pages.dev/">
+<a href="https://github.com/CodeJay10/">
 <img src="https://img.shields.io/badge/PORTFOLIO-FF7A18?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://codepen.io/theprocoder10">
