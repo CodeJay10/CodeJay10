@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://jay-8ur.pages.dev/">
+<a href="https://jay-exe.pages.dev/">
 <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-FF7A18?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://github.com/CoderJay10">
